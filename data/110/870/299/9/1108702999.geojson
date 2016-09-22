@@ -1,0 +1,76 @@
+{
+  "id": 1108702999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"6.11823,49.603268,6.11823,49.603268",
+    "geom:latitude":49.603268,
+    "geom:longitude":6.11823,
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 place de Nancy",
+    "sg:city":"Luxembourg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"L2212",
+    "sg:tags":[
+        "art-auctions",
+        "classifieds",
+        "free-information"
+    ],
+    "sg:website":"http://www.artvalue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802073,
+        102191581,
+        85633275,
+        101751765,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40S1k4zLwenj2dxZ6FQId5_49.603268_6.118230@1308163239"
+    },
+    "wof:country":"LU",
+    "wof:created":1474570897,
+    "wof:geomhash":"dec3543a3697eb647344c1d5e962c935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "neighbourhood_id":85802073,
+            "region_id":85673875,
+            "venue_id":1108702999
+        }
+    ],
+    "wof:id":1108702999,
+    "wof:lastmodified":1474570897,
+    "wof:name":"Artvalue.com",
+    "wof:parent_id":85802073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art-auctions",
+        "classifieds",
+        "free-information"
+    ]
+},
+  "bbox": [
+    6.11823,
+    49.603268,
+    6.11823,
+    49.603268
+],
+  "geometry": {"coordinates":[6.11823,49.603268],"type":"Point"}
+}

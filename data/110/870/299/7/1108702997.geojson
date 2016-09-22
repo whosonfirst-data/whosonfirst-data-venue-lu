@@ -1,0 +1,84 @@
+{
+  "id": 1108702997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"6.130484,49.602135,6.130484,49.602135",
+    "geom:latitude":49.602135,
+    "geom:longitude":6.130484,
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "sg:address":"21, rue Glesener",
+    "sg:city":"Luxembourg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"L-1631",
+    "sg:tags":[
+        "notification",
+        "saas",
+        "business-continuity",
+        "disaster-recovery",
+        "nagios",
+        "iphone",
+        "whatsup-gold"
+    ],
+    "sg:website":"http://www.alarmtilt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802047,
+        102191581,
+        85633275,
+        101751765,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qy4GMuFz5uKFpRt1iAKwC_49.602135_6.130484@1308163242"
+    },
+    "wof:country":"LU",
+    "wof:created":1474570897,
+    "wof:geomhash":"4de63450db2dfba2b0eb16e39fe76995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "neighbourhood_id":85802047,
+            "region_id":85673875,
+            "venue_id":1108702997
+        }
+    ],
+    "wof:id":1108702997,
+    "wof:lastmodified":1474570897,
+    "wof:name":"M-PLIFY",
+    "wof:parent_id":85802047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "notification",
+        "saas",
+        "business-continuity",
+        "disaster-recovery",
+        "nagios",
+        "iphone",
+        "whatsup-gold"
+    ]
+},
+  "bbox": [
+    6.130484,
+    49.602135,
+    6.130484,
+    49.602135
+],
+  "geometry": {"coordinates":[6.130484,49.602135],"type":"Point"}
+}
